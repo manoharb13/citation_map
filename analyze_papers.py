@@ -12,9 +12,9 @@ import errno
 import layout_scanner
 
 # Zotero CSV Column indices
-YEAR_I = 2
-AUTHOR_I = 3
-TITLE_I = 4
+YEAR_I = 3
+AUTHOR_I = 4
+TITLE_I = 5
 FILE_I = 37
 
 DEFAULT_OUTPUT_CSV_NAME = "titles.csv"
